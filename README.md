@@ -12,7 +12,7 @@
 # Replit - Java
 Os códigos e arquivos para serem utilizados no replit encontram-se no github, entretanto os códigos encontram-se de forma operacional no próprio replit, tendo sido operacionalizados na main. 
 
-[Link](https://replit.com/@SantoGuru/TrabalhoJava)
+[Link para o Replit](https://replit.com/@SantoGuru/TrabalhoJava)
 
 ## 1. nPrimo:
 ### Para inicializar o algortimo, é necessário criar uma instância de nPrimo declarando qual número deseja verificar.
