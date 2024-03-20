@@ -5,4 +5,4 @@
 
 ### 1. Os códigos em JavaScript estão incorporados em arquivos HTML, permitindo que sejam executados diretamente no navegador para verificar o funcionamento do algoritmo. Para visualizar o código JavaScript em ação, abra o arquivo HTML em seu navegador. 
 
-### 2. Os resultados de quaisquer funcionabilidades serão exibidos no console, para visualizar aperte F12 com a página aberta e clique em "Console".
+### 2. Os resultados de quaisquer funcionabilidades serão exibidos no console ou na própria página. (para visualizar o console aperte F12 com a página aberta e clique em "Console".)
