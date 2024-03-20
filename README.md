@@ -9,7 +9,10 @@
 
 [Entregável #1 - Algoritmos/Java](https://github.com/SantoGuru/Trab_Unifor/tree/5ff43dc31079079cc56adee5855a704465f7d5ae/Trabalhos/Ambientes%20desenv%20de%20software/Entreg%C3%A1vel%20%231%20-%20Algoritmos/Java)
 
-Os códigos e arquivos para serem utilizados no replit encontram-se no github, entretanto os códigos encontram-se de forma operacional no próprio replit, tendo sido operacionalizados na main.
+# Replit - Java
+Os códigos e arquivos para serem utilizados no replit encontram-se no github, entretanto os códigos encontram-se de forma operacional no próprio replit, tendo sido operacionalizados na main. 
+
+[Link](https://replit.com/@SantoGuru/TrabalhoJava)
 
 ## 1. nPrimo:
 ### Para inicializar o algortimo, é necessário criar uma instância de nPrimo declarando qual número deseja verificar.
