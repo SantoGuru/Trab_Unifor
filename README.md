@@ -1,6 +1,7 @@
 # Ambientes de Desenvolvimento de Software
 
-## Entregável I - Algoritmos/JavaScript
+## Entregável I
+### Algoritmos/JavaScript
 [Entregável #1 - Algoritmos/JavaScript](https://github.com/SantoGuru/Trab_Unifor/tree/2bc425da3ed5dbd8b6ff2c76c6c21513829e9055/Trabalhos/Ambientes%20desenv%20de%20software/Entreg%C3%A1vel%20%231%20-%20Algoritmos/JavaScript)
 
 ### 1. Os códigos em JavaScript estão incorporados em arquivos HTML, permitindo que sejam executados diretamente no navegador para verificar o funcionamento do algoritmo. Para visualizar o código JavaScript em ação, abra o arquivo HTML em seu navegador. 
@@ -9,7 +10,7 @@
 
 [Entregável #1 - Algoritmos/Java](https://github.com/SantoGuru/Trab_Unifor/tree/5ff43dc31079079cc56adee5855a704465f7d5ae/Trabalhos/Ambientes%20desenv%20de%20software/Entreg%C3%A1vel%20%231%20-%20Algoritmos/Java)
 
-## Entregável I - Algoritmos/Java (Replit)
+### Algoritmos/Java (Replit)
 Os códigos e arquivos para serem utilizados no replit encontram-se no github, entretanto os códigos encontram-se de forma operacional no próprio replit, tendo sido operacionalizados na main. 
 
 [Link para o Replit](https://replit.com/@SantoGuru/TrabalhoJava?v=1)
