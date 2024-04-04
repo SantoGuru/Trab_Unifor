@@ -1,6 +1,6 @@
 # Ambientes de Desenvolvimento de Software
 
-# Entregável I
+# Entregável #1 - Algoritmos
 ## 1. Algoritmos/JavaScript
 [Entregável #1 - Algoritmos/JavaScript](https://github.com/SantoGuru/Trab_Unifor/tree/2bc425da3ed5dbd8b6ff2c76c6c21513829e9055/Trabalhos/Ambientes%20desenv%20de%20software/Entreg%C3%A1vel%20%231%20-%20Algoritmos/JavaScript)
 
